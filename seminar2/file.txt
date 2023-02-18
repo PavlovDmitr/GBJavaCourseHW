@@ -1,0 +1,18 @@
+a = 10
+b = 12
+c = 23
+
+[
+    k = 24
+    c = c + k
+    b = b + k
+]
+
+print c
+print b
+a = a + b + c
+print a
+1
+2
+3
+4abSed
