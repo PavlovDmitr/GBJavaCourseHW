@@ -1,4 +1,4 @@
-package seminar4;
+package seminarFin;
 
 import java.io.DataInputStream;
 import java.io.File;

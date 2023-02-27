@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AlgoLi",
+            "request": "launch",
+            "mainClass": "seminarFin.AlgoLi",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch program",
+            "request": "launch",
+            "mainClass": "Lesson1_t.program",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex002_fileSystemDemo",
+            "request": "launch",
+            "mainClass": "Lesson_02.Ex002_fileSystemDemo",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex003_tryDemo",
+            "request": "launch",
+            "mainClass": "Lesson_02.Ex003_tryDemo",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex004_bFile",
+            "request": "launch",
+            "mainClass": "Lesson_02.Ex004_bFile",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex005_Logger",
+            "request": "launch",
+            "mainClass": "Lesson_02.Ex005_Logger",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Lesson_02.Program",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex000",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex000",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex001",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex001",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex002",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex002",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex003",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex003",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex004",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex004",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex005",
+            "request": "launch",
+            "mainClass": "Lesson_04.Ex005",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "arch.App",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch app2",
+            "request": "launch",
+            "mainClass": "arch.app2",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sem1Hw1",
+            "request": "launch",
+            "mainClass": "seminar1.Sem1Hw1",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch program2",
+            "request": "launch",
+            "mainClass": "seminar1.program2",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch robot",
+            "request": "launch",
+            "mainClass": "seminar1.robot",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sem2Hw2",
+            "request": "launch",
+            "mainClass": "seminar2.Sem2Hw2",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch tink",
+            "request": "launch",
+            "mainClass": "seminar2.tink",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch pathToEndMap",
+            "request": "launch",
+            "mainClass": "seminar3.pathToEndMap",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlgoLi",
+            "request": "launch",
+            "mainClass": "seminar4.AlgoLi",
+            "projectName": "Java_e16fb986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "OOPJava_Seminars"
+        }
+    ]
+}
