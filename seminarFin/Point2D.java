@@ -15,7 +15,7 @@ public class Point2D {
         return value;
     }
 
-    public void setValue(int value) {
+    public void setValue() {
         this.value = value;
     }
 
@@ -64,5 +64,9 @@ public class Point2D {
         Point2D point2D = (Point2D) obj;
 
         return Integer.compare(value, point2D.value) == 0;
+    }
+
+    public void setValue(int value) {
+        this.value = value;
     }
 }
